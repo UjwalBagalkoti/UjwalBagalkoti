@@ -41,5 +41,7 @@ Computer Science Engineering graduate (2026) based in Bengaluru, India. I build 
 - [Email](mailto:uabagalkoti@gmail.com)
 
 ---
+### Portfolio
+https://ujwal-portfolio-bice.vercel.app/
 
 *Open to SDE-1 / Software Engineer opportunities.*
