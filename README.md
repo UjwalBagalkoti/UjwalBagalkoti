@@ -4,7 +4,7 @@
 
 Computer Science Engineering graduate (2026) based in Bengaluru, India. I build full-stack applications, backend services, REST APIs, and AI-enabled software.
 
-### What I work with
+### What I work with 
 
 - **Languages:** Python, Java, JavaScript, TypeScript, SQL
 - **Frontend:** React, Next.js, Angular, HTML, CSS, Tailwind CSS
