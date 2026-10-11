@@ -27,7 +27,6 @@ Computer Science Engineering graduate (2026) based in Bengaluru, India. I build 
 
 - **Python Development Intern — Global Quest Technologies**
 - **Full Stack Development Intern — Athreya Technologies**
-- **Junior Engineer Intern — Agile Robots / Staffelsee AR India**
 
 ### Education
 
